@@ -1,0 +1,9 @@
+.submit-button-auth {
+  height: 6vh;
+  width: 100%;
+  border-radius: 4px;
+  background: linear-gradient(124.18deg, #FE8A00 22.06%, #FE8A00 81.62%);
+  color: #1E2733;
+  font-size: 1.2em;
+  font-weight: 700;
+}

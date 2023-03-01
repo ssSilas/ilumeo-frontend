@@ -1,0 +1,50 @@
+.register-point{
+  height: 85vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.header-register-point {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 0 15px 0;
+}
+
+.title-header-register-point {
+  font-weight: 700;
+  font-size: 1em;
+}
+
+.user-header-register-point {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  font-size: 1em;
+}
+
+.user-code-header {
+  font-weight: 700;
+}
+
+.container-hours-balance{
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+}
+
+.hours-balance{
+  font-size: 1.5em;
+}
+
+.hours-balance-description{
+  font-size: 0.8em;
+}
+
+form{
+  display: flex;
+  align-items: center;
+  height: 10%; width: 100%;
+}

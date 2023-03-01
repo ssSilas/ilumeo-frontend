@@ -1,0 +1,12 @@
+.container-checkin{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 45vh;
+}
+
+.checkin-description{
+  font-weight: 700;
+  font-size: 0.85em;
+}
